@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "name": "The Godfather",
+      "rating": "9.2",
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "id": 7
+    },
+    {
+      "name": "One Flew Over the Cuckoo's Nest",
+      "rating": "8.7",
+      "overview": "While serving time for insanity at a state mental hospital, implacable rabble-rouser, Randle Patrick McMurphy, inspires his fellow patients to rebel against the authoritarian rule of head nurse, Mildred Ratched.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/biejlC9yx8W66KHrD5tp9YiSqmV.jpg",
+      "id": 8
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "rating": "9.2",
+      "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "id": 11
+    },
+    {
+      "name": "The Dark Knight",
+      "rating": "8.7",
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "id": 12
+    },
+    {
+      "name": "GoodFellas",
+      "rating": "8.8",
+      "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QMSLvU5ziIL2T6VrkaKzN2YkxK.jpg",
+      "id": 13
+    },
+    {
+      "name": "The Prestige",
+      "rating": "8.7",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvSESD7ujxWZwtYDb9l57qE0ywq.jpg",
+      "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+      "id": 14
+    }
+  ]
+}
